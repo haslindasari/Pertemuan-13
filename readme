@@ -1,0 +1,6 @@
+1. PERBEDAAN LINIER DAN CILCULAR
+    Sirkular memiliki pointer next yang akan menunujuk diri sendiri sehingga berputar, sednagkan linier tidak berputar
+    
+2. PERBEDAAN DOUBLE DAN SINGLE
+    single memiliki satu variabel pointer saja, sedangkan double memiliki dua variabel pointer yang mennunujuk ke node selanjutnya dan node sebelumnya.
+    
